@@ -1,7 +1,7 @@
 # Quran Database Structure
 
 ## Overview
-`quran.db` is a SQLite database containing the complete text of the Holy Quran in multiple languages with chapter metadata.
+`holy_quran.db` is a SQLite database containing the complete text of the Holy Quran in multiple languages with chapter metadata.
 
 ---
 
