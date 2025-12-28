@@ -1,0 +1,38 @@
+QURAN DATABASE LICENSE
+
+This database (holy_quran.db) contains the Holy Quran text in multiple languages (arabic, english, bahasa and transliteration).
+
+Licensed under:
+Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+
+You are free to:
+- Use this database in your applications (commercial or non-commercial)
+- Distribute copies of this database
+
+Under the following terms:
+- Attribution: You must give appropriate credit to the sources listed below
+- No Derivatives: You may not alter, transform, or build upon this database
+
+Attribution:
+- Arabic Text: http://www.tanzil.info
+- English Translation: Muhammed Marmaduke William Pickthall
+- Source: ceefour/qurandatabase
+- Bahasa Indonesia Translation
+- Source: ceefour/qurandatabase
+- English Transliteration
+- Source: ceefour/qurandatabase
+
+- Database compiled by: [Madi Kousseila], december 28th 2025
+
+Full license text:
+https://creativecommons.org/licenses/by-nd/4.0/legalcode
+
+Summary:
+https://creativecommons.org/licenses/by-nd/4.0/
+
+---
+
+DISCLAIMER:
+This database is provided "as-is" without any warranties. The compiler of 
+this database is not responsible for any errors or omissions in the 
+translations or text.
